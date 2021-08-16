@@ -15,9 +15,11 @@ Bitcoin rate on i2c lcd display 1602
 
         git clone https://github.com/Anth3995/BTC_rate_esp8266.git
 
-3) Connect MCU to pc
+3) Enter your SSID and password of WIFI to src/main.cpp on 14 and 15 lines.
 
-4) Into folder run:
+4) Connect MCU to pc.
+
+5) Into folder run:
 
         pio run --target upload
 
