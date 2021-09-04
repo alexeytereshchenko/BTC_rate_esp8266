@@ -25,4 +25,4 @@ Bitcoin rate on i2c lcd display 1602
 
 ## Important information:
 
-LCD display have to 5V power. 3.3V is small.
+LCD display have to external 5V power. 3.3V from microcontroller is small for it.
